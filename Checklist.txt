@@ -1,0 +1,5 @@
+Find the Maximum Number in an Array
+Count Even & Odd Numbers in an Array
+Reverse an Array
+Linear Search
+Binary Search

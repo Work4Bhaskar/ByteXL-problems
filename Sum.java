@@ -1,0 +1,11 @@
+//Enhance your coding skills, start writing your code here!!
+import java.util.*;
+class Sum{
+  public static void main(String args[]){
+    Scanner sc = new Scanner(System.in);
+    int a,b;
+    a=sc.nextInt();
+    b=sc.nextInt();
+    System.out.printf("Sum: %d",(a+b));
+  }
+}
